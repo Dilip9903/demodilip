@@ -1,0 +1,18 @@
+API Details
+
+
+1. Api for send template via Mailgum
+
+	API URL = http://latestnewproject.loc/demo.php
+	params =
+		api = 1
+		first_name = 'xyz'
+		last_name  = 'xyz'
+		template   = '3rd-template'
+		
+		
+2. Api to get all list of template
+
+     API  URL = http://latestnewproject.loc/demo.php
+     params = 
+		api = 2
